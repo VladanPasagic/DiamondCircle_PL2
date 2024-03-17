@@ -1,0 +1,41 @@
+Player 1 -  Marko
+Figure 1 - (FloatingFigure, RED) - visited fields (6-17-59-95-42-74-54) - finished true
+Total time spent in movement: 55513ms
+Figure 2 - (SuperFastFigure, RED) - visited fields (6-38) - finished false
+Total time spent in movement: 2543ms
+Figure 3 - (SuperFastFigure, RED) - visited fields (6-28-77-38-35-54) - finished true
+Total time spent in movement: 29931ms
+Figure 4 - (FloatingFigure, RED) - visited fields (6-50-84-85-54) - finished true
+Total time spent in movement: 53556ms
+
+Player 2 -  Vladan
+Figure 1 - (NormalFigure, BLUE) - visited fields (6-28-68-73-15) - finished false
+Total time spent in movement: 22207ms
+Figure 2 - (FloatingFigure, BLUE) - visited fields (6-39-95-48-54) - finished true
+Total time spent in movement: 53524ms
+Figure 3 - (FloatingFigure, BLUE) - visited fields (6-50-86-73-24-76-37-54) - finished true
+Total time spent in movement: 56502ms
+Figure 4 - (SuperFastFigure, BLUE) - visited fields (6-59-72) - finished false
+Total time spent in movement: 7623ms
+
+Player 3 -  Milan
+Figure 1 - (NormalFigure, GREEN) - visited fields (6-50-86-84-51-24-38-48) - finished false
+Total time spent in movement: 28241ms
+Figure 2 - (NormalFigure, GREEN) - visited fields (6-39-68-84-15-84) - finished false
+Total time spent in movement: 30300ms
+Figure 3 - (FloatingFigure, GREEN) - visited fields (6-17-39-86-67-54) - finished true
+Total time spent in movement: 54478ms
+Figure 4 - (SuperFastFigure, GREEN) - visited fields (6-58) - finished false
+Total time spent in movement: 3544ms
+
+Player 4 -  Pero
+Figure 1 - (NormalFigure, YELLOW) - visited fields (6-39-77-62-14) - finished false
+Total time spent in movement: 21214ms
+Figure 2 - (FloatingFigure, YELLOW) - visited fields (6-28-77-95-33-48-54) - finished true
+Total time spent in movement: 55488ms
+Figure 3 - (FloatingFigure, YELLOW) - visited fields (6-39-95-43-54) - finished true
+Total time spent in movement: 53485ms
+Figure 4 - (SuperFastFigure, YELLOW) - visited fields (6-50-24-34-54) - finished true
+Total time spent in movement: 28860ms
+
+Total time elapsed in game: 575
