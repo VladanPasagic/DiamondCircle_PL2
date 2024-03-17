@@ -10,3 +10,24 @@ The graphical part of the application layout is suggested in the image:
 By clicking on the "Show list of result files" button, a new form is opened where the list of files is displayed in tabular form. By clicking on a specific file, its content is displayed to the user in an arbitrary way.
 The "Game duration" and "Description of card meaning" are refreshed every second. The number of squares on the card represents the number of fields the figure needs to cross. The movement is shown in the center matrix.
 Be sure to use the Logger class to handle exceptions in all classes.
+
+Some images of the user interface:
+1. Configuration image
+
+![Game config](https://github.com/VladanPasagic/DiamondCircle_PL2/assets/93393767/4f33d10a-e371-441d-a2a4-9054c5153d0d)
+
+![Name config](https://github.com/VladanPasagic/DiamondCircle_PL2/assets/93393767/ca39c26c-62d6-45ee-bba1-19daa28fcee3)
+
+2. Gameplay image
+
+![Gameplay](https://github.com/VladanPasagic/DiamondCircle_PL2/assets/93393767/80978483-b3da-41c3-b381-45aa61b91a25)
+
+3. Gamelist image
+
+![Gamelist and single game](https://github.com/VladanPasagic/DiamondCircle_PL2/assets/93393767/31839022-eea3-4af1-bef2-209accefdca6)
+
+4. Figure movement matrix
+
+![Figure movement](https://github.com/VladanPasagic/DiamondCircle_PL2/assets/93393767/525426de-13a6-4f47-a8eb-65276453cd42)
+
+
